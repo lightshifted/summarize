@@ -13,4 +13,4 @@ pip install torch torchvision torchaudio --extra-index-url https://download.pyto
 ```
 
 ### Objectives 
-Our objective is to employ a text classification model in production
+Our objective is to employ a text classification model into production...
